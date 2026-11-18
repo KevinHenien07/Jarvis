@@ -7,8 +7,6 @@
 #include <sapi.h>
 #include <cctype>
 
-#pragma comment(lib, "sapi.lib")
-
 using namespace std;
 
 // =====================================
@@ -104,13 +102,13 @@ vector<Question> questions =
     },
 
     {
-        "Name something people do when they are bored.",
+        "Name an animal that hops.",
         {
-            {"Watch TV", 30},
-            {"Play video games", 25},
-            {"Use their phone", 20},
-            {"Sleep", 15},
-            {"Read", 10}
+            {"Kangroo", 30},
+            {"Rabbit", 25},
+            {"Frog", 20},
+            {"Grasshopper", 15},
+            {"Toad", 10}
         }
     }
 };
