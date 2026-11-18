@@ -12,7 +12,7 @@
 using namespace std;
 
 // =====================================
-// JARVIS VOICE SYSTEM LOVE YOU 3000
+// JARVIS VOICE SYSTEM
 // =====================================
 
 ISpVoice* voice = nullptr;
